@@ -34,3 +34,16 @@ button {
 button:hover {
     background: purple;
 }
+.account-card{
+background:white;
+padding:20px;
+border-radius:20px;
+margin:20px auto;
+border:3px solid #d9d3ff;
+transition:0.3s;
+}
+
+.account-card:hover{
+transform:scale(1.03);
+border-color:teal;
+}
